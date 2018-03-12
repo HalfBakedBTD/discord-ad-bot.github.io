@@ -1,0 +1,37 @@
+@font-face {
+    font-family: Lato;
+    src: url(Lato-Regular.ttf);
+}
+
+@font-face {
+	font-family: Lato-Bold;
+    src: url(Lato-Bold.ttf);
+}
+
+div {
+    font-family: Lato;
+}
+
+div {
+	font-family: Lato-Bold;
+}
+
+h1{
+    font-family: Lato;
+    color: #c0392b;
+}
+
+h3{
+    font-family: Lato;
+    color: #e74c3c;
+}
+
+h4{
+    font-family: Lato;
+    color: #e74c3c;
+}
+
+h5{
+    font-family: Lato-Bold;
+    color: #e74c3c;
+}
